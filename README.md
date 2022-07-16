@@ -1,2 +1,2 @@
-# King-Ballon-Repro-Art
+# King-Balloon-Repro-Art
 Reproduction art for an imaginary Namco upright King and Balloon. This artwork is derived from the MSX box art and terrible scans of old Namco sales brochures. All rights to the art, logos, and characters are Namco's and I claim no copyright for myself. Do whatever you want with it. Art was created in Inkscape primarily, and is currently sized to fit a Midway Pac-Man cabaret.
